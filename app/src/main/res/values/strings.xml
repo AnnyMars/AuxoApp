@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AuxoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detailDeskText">Маркерная доска</string>
+    <string name="detailProjectorText">Проектор</string>
+    <string name="detailBookingListText">Список бронирования:</string>
+    <string name="detailButtonText">Забронировать</string>
+    <string name="loginHintLogin">Введите логин</string>
+    <string name="loginHintPassword">Введите пароль</string>
+    <string name="loginBtnText">продолжить</string>
+    <string name="detailToatText">Вы забронировали комнату</string>
+</resources>
